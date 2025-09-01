@@ -30,6 +30,7 @@ Below are sample screenshots of the website located in the `images/` directory:
 ![Screenshot 4](images/4.png)
 ![Screenshot 5](images/5.png)
 ![Screenshot 6](images/6.png)
+![Screenshot 7](images/7.png)
 
 ---
 
